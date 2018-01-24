@@ -8,3 +8,5 @@ Manifold for rapid switches of odor concentration using air dilution of the main
 | Solenoid      | The Lee Company     | LHQA2411220H      |      8     |    87              |
 | Check valve   | Beswick Engineering | NV3H-1012-3-S     |      8     |    31.7            |
 | Fittings      | STAR                | 10-32 x 1/16 barb |      8     |    1.5             |
+
+<img src="https://github.com/RomaShust/Concentration-Change-Manifold/blob/master/CCM_assembled.PNG" width="400" height="300">
